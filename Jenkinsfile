@@ -2,7 +2,7 @@ node {
    def mvnHome
 
    stage('Preparation') {
-       git 'https://github.com/geralD132001/ayylusinchi-commons-sede.git'
+       git 'https://github.com/geralD132001/ayllusinchi-commons-sede.git'
        mvnHome = tool 'MAVEN'
    }
 
