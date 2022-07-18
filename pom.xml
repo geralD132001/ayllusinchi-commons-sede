@@ -14,7 +14,7 @@
     <name>ayllusinchi-servicio-commons-sedes</name>
     <description>ayllusinchi-servicio-commons-sedes</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
